@@ -1,2 +1,2 @@
 # KNN
-KNN homework
+KNN Study Guide Code
